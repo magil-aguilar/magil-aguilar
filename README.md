@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 
-Maria Angelica Gil, OPS435 Section 
+Maria Angelica Gil, OPS435 Section NAA
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
